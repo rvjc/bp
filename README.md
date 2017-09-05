@@ -1,2 +1,3 @@
-# bp
+# BP
+
 Balanced Partition Alogorithm

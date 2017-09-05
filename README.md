@@ -1,3 +1,3 @@
 # BP
 
-Balanced Partition Alogorithm
+Balanced Partition Algorithm
